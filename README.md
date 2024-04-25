@@ -6,6 +6,7 @@
 
 # :pushpin: Tabela de Conteúdo
 
+* [Site de Demostração](#eyes-site-de-demostração) 
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
 * [Como rodar](#construction_worker-como-rodar)
@@ -18,6 +19,10 @@
    <img src="https://github.com/joaopedrolullo/alura-plus/assets/14797386/e7469142-cc39-4913-9193-b606dfe59cce" width="300">
    <img src="https://github.com/joaopedrolullo/alura-plus/assets/14797386/ceaf4aff-af04-4c80-b607-d3b564b3f651" width="300">
 </div>
+
+# :eyes: Site de Demostração
+Você pode acessar o site em:     
+👉  demo: https://aluraplus-jp.vercel.app/
 
 # :computer: Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
