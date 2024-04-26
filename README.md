@@ -9,7 +9,6 @@
 * [Site de Demostração](#eyes-site-de-demostração) 
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
-* [Como rodar](#construction_worker-como-rodar)
 
 ### Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
@@ -33,9 +32,3 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 # :rocket: Funcionalidades
 
 * Site para o pacote Combo+ = Alura+ e Alura Língua.
-
-# :construction_worker: Como rodar
-```bash
-# Clone o Repositoria
-$ git clone https://github.com/joaopedrolullo/proffy.git
-```
